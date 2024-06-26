@@ -383,7 +383,7 @@ To perform exactly these actions, run the following command to apply:
     tofu apply "ec2.tfplan"
 
 sctp-ce6-mod2.7sctp-ce6-mod2.7 on 🌱 main [📝🤷‍] via 💠 default took 2s
-λ ttofu apply "ec2.tfplantofu"ec2.tfplan"tofu apply "ec2.tfplan"tofu apply "ec2.tfplan"tofu"ec2.tfplan"
+λ tofu apply "ec2.tfplantofu"ec2.tfplan"tofu apply "ec2.tfplan"tofu apply "ec2.tfplan"tofu"ec2.tfplan"
 tofurandom_id.server: Creating...
 random_id.server: Creation complete after 0s [id=3PjnUw]
 aws_key_pair.ubuntu: Creating...
