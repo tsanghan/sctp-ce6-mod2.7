@@ -6,7 +6,7 @@
 3. random
 4. cloudinit
 
-`Security Group` ingress cidr_blocks are automaticall retrived from http provider.
+`Security Group` ingress cidr_blocks are automatically retrived from http provider.
 
 For a working demo please see below.
 
