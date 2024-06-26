@@ -1,12 +1,12 @@
 # sctp-ce6-mod2.7
 
-### Providers used in this terraform/tofu file.
+### Providers used in `provider.tf` terraform/tofu file.
 1. aws
 2. http
 3. random
 4. cloudinit
 
-Security Group ingress cidr_blocks are automaticall retrived from http provider.
+`Security Group` ingress cidr_blocks are automaticall retrived from http provider.
 
 For a working demo please see below.
 
