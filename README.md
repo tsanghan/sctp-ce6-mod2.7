@@ -1070,7 +1070,7 @@ Destroy complete! Resources: 9 destroyed.
 
 sctp-ce6-mod2.7sctp-ce6-mod2.7 on 🌱 main [📝🤷‍] via 💠 default took 1m15s
 λ exit
-exit
+
 Script done on 2024-06-26 13:46:59+08:00 [COMMAND_EXIT_CODE="0"]
 
 ```
