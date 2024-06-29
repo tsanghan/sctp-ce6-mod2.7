@@ -6,9 +6,9 @@
 #  name = "/aws/service/canonical/ubuntu/server/24.04/stable/current/amd64/hvm/ebs-gp3/ami-id"
 #}
 
-data "http" "myip" {
-  url = "http://api.ipify.org"
-}
+# data "http" "myip" {
+#   url = "http://api.ipify.org"
+# }
 
 ##################################################################################
 # RESOURCES

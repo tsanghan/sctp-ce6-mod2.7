@@ -14,3 +14,7 @@ data "cloudinit_config" "web_server" {
     content = file("cloud-init/cloud-config.yaml")
   }
 }
+
+data "http" "myip" {
+  url = "http://api.ipify.org"
+}
